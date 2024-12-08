@@ -1,0 +1,68 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>AHeroFarAway</AssemblyName>
+    <RootNamespace>AHeroFarAway</RootNamespace>
+    <Authors>Ömer Ali Taylan</Authors>
+    <Description>A text-based space exploration adventure game</Description>
+    <Version>1.0.0</Version>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <!-- Development Configuration -->
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+
+  <!-- Release Configuration -->
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+  <!-- Story Content -->
+  <ItemGroup>
+    <None Update="story-file.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <!-- Source Files -->
+  <ItemGroup>
+    <!-- Core Game Files -->
+    <Compile Include="Program.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="StoryPath.cs" />
+    
+    <!-- Story Paths -->
+    <Compile Include="StoryPaths\BaseStoryPath.cs" />
+    <Compile Include="StoryPaths\ExplorationPath.cs" />
+    <Compile Include="StoryPaths\ForestPath.cs" />
+    <Compile Include="StoryPaths\SymbolsPath.cs" />
+    
+    <!-- Utilities -->
+    <Compile Include="Utils\ConsoleUI.cs" />
+    <Compile Include="Utils\ErrorHandler.cs" />
+    <Compile Include="Utils\InputHandler.cs" />
+    <Compile Include="Utils\PlayerValidator.cs" />
+  </ItemGroup>
+
+  <!-- Global Usings -->
+  <ItemGroup>
+    <Using Include="System" />
+    <Using Include="System.Collections.Generic" />
+    <Using Include="System.Threading" />
+    <Using Include="System.Threading.Tasks" />
+    <Using Include="System.IO" />
+    <Using Include="AHeroFarAway.Utils" />
+  </ItemGroup>
+
+</Project>

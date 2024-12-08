@@ -1,0 +1,175 @@
+The Lost Planet: An Interactive Story
+Prologue
+The year is 2098, and the global race for space exploration has reached a new peak. A powerful new spacefaring nation, Turkey, has constructed the "Erlik" – a starship capable of traveling to distant galaxies. As one of the six astronauts aboard the Erlik, your mission is to explore an unknown, mysterious planet in a distant galaxy. You’ve just arrived and landed on the surface of this uncharted world. Your goal is to gather information and return to Earth to report your findings.
+
+The planet is eerie, its landscape alien and its skies unrecognizable. You’ve barely touched the surface when strange occurrences begin. Now, the survival of your team and your connection to Earth are at risk. Will you be able to uncover the truth, or will you fall victim to the planet’s dark secrets?
+
+Starting Point
+As you step off the Erlik and onto the surface of the unknown planet, you face a decision.
+
+Choice 1:
+
+A. Investigate the strange symbols near the ship’s landing site.
+B. Head into the dense forest that stretches before you.
+Path A: The Symbols
+You decide to investigate the symbols, drawn in a language unknown to you. They seem to glow faintly in the dim light of the planet's twin moons.
+
+Choice 2:
+
+A1. Examine the symbols closely, trying to decode them.
+A2. Leave the symbols and continue looking for any sign of life.
+Path A1: Decoding the Symbols
+The symbols begin to make sense, revealing a hidden underground base beneath the surface. It seems as if the planet was once home to a highly advanced civilization.
+
+Choice 3:
+
+A1.1. Enter the underground base and explore.
+A1.2. Mark the location and return to the surface to gather more information.
+Choice 4:
+
+A1.1.1. You enter the underground base, discovering advanced technology.
+A1.1.2. You find ancient, cryptic messages that warn of a great disaster.
+Choice 5:
+
+A1.1.1.1. Activate the alien technology, hoping it will help you.
+A1.1.1.2. Take samples from the technology and send them back to Earth for analysis.
+Choice 6:
+
+A1.1.1.1.1. The technology reacts violently, and you must escape the base.
+A1.1.1.1.2. The technology unlocks hidden information about the planet’s downfall.
+Choice 7:
+
+A1.1.1.1.1.1. You escape the base, but you’re pursued by mysterious forces.
+A1.1.1.1.2. The information reveals that the planet's destruction was caused by an energy imbalance.
+Choice 8:
+
+A1.1.1.1.1.1.1. Fight back against the creatures pursuing you.
+A1.1.1.1.1.1.2. Attempt to flee and regroup with your team.
+Choice 9:
+
+A1.1.1.1.1.1.1.1. You manage to fight off the creatures and uncover a major scientific breakthrough.
+A1.1.1.1.1.1.1.2. You barely escape, only to realize the planet's dangerous forces are growing.
+Choice 10:
+
+A1.1.1.1.1.1.1.1.1. You transmit your findings to Earth, potentially changing humanity's future.
+A1.1.1.1.1.1.1.1.2. You set up a defensive perimeter, preparing for a potentially deadly encounter.
+End of Path A1: The Revelation You discover the planet’s truth, but your escape from the dangers and the answers you uncovered comes at a high price. Your team is in jeopardy, but the knowledge you bring back could change the course of history.
+
+Path A2: Searching for Life
+You decide to leave the symbols behind and venture deeper into the alien planet. Your focus shifts to finding other signs of life.
+
+Choice 3:
+
+A2.1. Follow a trail of unusual footprints.
+A2.2. Explore the dense jungle for signs of settlements or creatures.
+Choice 4:
+
+A2.1.1. The footprints lead you to an abandoned village.
+A2.1.2. The footprints disappear into a cave system.
+Choice 5:
+
+A2.1.1.1. Explore the village for clues about the inhabitants.
+A2.1.1.2. Investigate the cave for any hidden secrets.
+Choice 6:
+
+A2.1.1.1.1. The village has been untouched for centuries, but you find strange artifacts.
+A2.1.1.1.2. The cave contains a hidden chamber with ancient technology.
+Choice 7:
+
+A2.1.1.1.1.1. Study the artifacts to understand the culture that once thrived here.
+A2.1.1.1.2. Use the technology to send a signal back to Earth.
+Choice 8:
+
+A2.1.1.1.1.1.1. The artifacts reveal a catastrophic event that led to the civilization's fall.
+A2.1.1.1.1.1.2. The signal you send back to Earth alerts the authorities of the planet's unstable nature.
+Choice 9:
+
+A2.1.1.1.1.1.1.1. The technology unlocks a major discovery about the planet's energy crisis.
+A2.1.1.1.1.1.1.2. The artifacts lead you to a new and unexplored region of the planet.
+Choice 10:
+
+A2.1.1.1.1.1.1.1.1. Your discoveries become a beacon for more expeditions.
+A2.1.1.1.1.1.1.1.2. You report back to Earth, hoping to solve the planet's mysteries before time runs out.
+End of Path A2: The Discovery You uncover vital information about the planet’s lost civilization and the impending disaster that could spread beyond the planet itself.
+
+Path B: The Forest
+You decide to venture into the forest. The path is thick with alien plant life, and you can hear strange sounds echoing from deep within the woods.
+
+Choice 2:
+
+B1. Investigate the strange creatures watching from afar.
+B2. Press on into the heart of the forest, ignoring the creatures.
+Path B1: Communicating with the Creatures
+You approach the creatures cautiously, and they react by moving closer. They seem to be waiting for something from you.
+
+Choice 3:
+
+B1.1. Attempt to communicate with them.
+B1.2. Prepare yourself for a possible conflict.
+Choice 4:
+
+B1.1.1. The creatures understand you and reveal their true intentions.
+B1.1.2. The creatures become agitated and begin to attack.
+Choice 5:
+
+B1.1.1.1. You decide to follow them to a hidden part of the forest.
+B1.1.1.2. You try to offer a gift to calm them down.
+Choice 6:
+
+B1.1.1.1.1. The creatures lead you to a ruined city hidden beneath the trees.
+B1.1.1.2. The creatures take your gift and show you a hidden technology that can help your mission.
+Choice 7:
+
+B1.1.1.1.1.1. Study the technology and learn how to use it.
+B1.1.1.1.2. Return to your ship to report the find.
+Choice 8:
+
+B1.1.1.1.1.1.1. The technology reveals a secret weapon that could protect your crew.
+B1.1.1.1.1.1.2. The creatures warn you about a powerful force that could threaten your mission.
+Choice 9:
+
+B1.1.1.1.1.1.1.1. You use the weapon to defend against a hostile alien attack.
+B1.1.1.1.1.1.1.2. You decide to warn your crew and prepare for an all-out battle.
+Choice 10:
+
+B1.1.1.1.1.1.1.1.1. The alien threat is neutralized, and you uncover crucial information for humanity’s future.
+B1.1.1.1.1.1.1.1.2. You face a moral dilemma about using the alien technology for war.
+End of Path B1: The Encounter The creatures reveal secrets and warnings, but your actions will decide if humanity can survive the dangers of the unknown.
+
+Path B2: Heart of the Forest
+You choose to ignore the creatures and press deeper into the heart of the forest. The sounds grow louder, and you begin to feel an intense pressure in the air.
+
+Choice 3:
+
+B2.1. Investigate the strange noises coming from the trees.
+B2.2. Try to find a way out, realizing you may be lost.
+Choice 4:
+
+B2.1.1. You discover an ancient structure hidden within the trees.
+B2.2.1. You encounter a dangerous creature and are forced to defend yourself.
+Choice 5:
+
+B2.1.1.1. Enter the structure to explore what lies within.
+B2.1.2. Use the structure as a vantage point to scan for possible threats.
+Choice 6:
+
+B2.1.1.1.1. You uncover a library of forgotten knowledge.
+B2.1.2.1. You identify a large energy source nearby.
+Choice 7:
+
+B2.1.1.1.1.1. Study the ancient texts in the library.
+B2.1.2.1.1. Investigate the energy source further.
+Choice 8:
+
+B2.1.1.1.1.1.1. The texts reveal dangerous truths about the planet’s fall.
+B2.1.2.1.1.1. The energy source is connected to the planet’s cataclysm.
+Choice 9:
+
+B2.1.1.1.1.1.1.1. You send the information back to Earth.
+B2.1.2.1.1.1.1. You try to harness the energy source for your own survival.
+Choice 10:
+
+B2.1.1.1.1.1.1.1.1. Your discovery leads to a major breakthrough.
+B2.1.2.1.1.1.1.1. The energy source destabilizes, threatening the entire crew.
+End of Path B2: The Hidden Force You discover dangerous secrets and energy that can either save or destroy everything you've worked for, depending on your actions.
+
